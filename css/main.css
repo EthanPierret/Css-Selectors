@@ -1,0 +1,36 @@
+header {
+    border: 1px goldenrod solid;
+}
+
+nav ul li {
+    display: inline;
+    padding: 5px;
+    list-style-type: none;
+}
+
+.active {
+    color: yellow;
+}
+
+.grandparent > h4 {
+
+    border-radius: 5px;
+    border: 1px black solid;
+}
+
+.promo {
+    color: gold;
+    font-weight: bold;
+}
+
+footer input {
+    height: 25px;
+}
+
+.disabled {
+color: gray;
+}
+
+a.disabled {
+color: purple;
+}
